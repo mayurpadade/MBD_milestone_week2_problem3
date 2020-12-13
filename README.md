@@ -1,0 +1,2 @@
+# MBD_milestone_week2_problem3
+Consider the Cruise Control Model from the following link https://ctms.engin.umich.edu/CTMS/index.php?example=CruiseControl&amp;section=Simu linkModeling Build this system in Simulink. Design a controller (P, PI, PD or PID) to achieve following goals with basic building bocks • Rise time &lt; 5 s • Overshoot &lt; 10% • Steady-state error &lt; 2% Build a reference model to use the PID along with this system. Use Data Dictionary
